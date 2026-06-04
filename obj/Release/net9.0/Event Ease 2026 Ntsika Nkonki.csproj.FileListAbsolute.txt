@@ -1,0 +1,222 @@
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\Event Ease 2026 Ntsika Nkonki.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\rpswa.dswa.cache.json
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\Event Ease 2026 Ntsika Nkonki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\Event Ease 2026 Ntsika Nkonki.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\Event Ease 2026 Ntsika Nkonki.AssemblyInfo.cs
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\Event Ease 2026 Ntsika Nkonki.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\Event Ease 2026 Ntsika Nkonki.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\Event Ease 2026 Ntsika Nkonki.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\Event Ease 2026 Ntsika Nkonki.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\Event Ease 2026 Ntsika Nkonki.sourcelink.json
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\appsettings.json
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Event Ease 2026 Ntsika Nkonki.staticwebassets.runtime.json
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Event Ease 2026 Ntsika Nkonki.staticwebassets.endpoints.json
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Event Ease 2026 Ntsika Nkonki.exe
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Event Ease 2026 Ntsika Nkonki.deps.json
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Event Ease 2026 Ntsika Nkonki.runtimeconfig.json
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Event Ease 2026 Ntsika Nkonki.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Event Ease 2026 Ntsika Nkonki.pdb
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Azure.Core.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Azure.Identity.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Azure.Storage.Blobs.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Azure.Storage.Common.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Humanizer.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Microsoft.Build.Locator.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\Mono.TextTemplating.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\System.ClientModel.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\System.CodeDom.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\System.Composition.AttributedModel.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\System.Composition.Convention.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\System.Composition.Hosting.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\System.Composition.Runtime.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\System.Composition.TypedParts.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\System.IO.Hashing.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\System.Memory.Data.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\System.Security.Permissions.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\System.Windows.Extensions.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\EventEaseClean\bin\Release\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\rjimswa.dswa.cache.json
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\scopedcss\bundle\Event Ease 2026 Ntsika Nkonki.styles.css
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\scopedcss\projectbundle\Event Ease 2026 Ntsika Nkonki.bundle.scp.css
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\2ldjtcjwyo-hbukpbnsci.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\tpg8goz3ej-61n19gt1b8.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\mjzupxzsxj-xtxxf3hu2r.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\rdi28s4uav-bqjiyaj88i.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\ydfsvw9wwl-c2jlpeoesf.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\so7zkezsdj-erw9l3u2r3.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\p6crac46g9-aexeepp0ev.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\6hejirdypz-d7shbmvgxk.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\pv72mq5w6x-ausgxo2sd3.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\x10z8n55qk-k8d9w2qqmf.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\apdk2c1ft6-cosvhxvwiu.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\p4trcyegc7-ub07r2b239.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\q7bkk7pxxl-fvhpjtyr6v.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\xzlhtml54r-b7pk76d08c.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\xzczzg3jn7-fsbi9cje9m.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\fk5ikhes98-rzd6atqjts.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\w7dtoor4ec-ee0r1s7dh0.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\3tf0zmc0tn-dxx9fxp4il.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\cx6dkbffv6-jd9uben2k1.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\238r1m85rg-khv3u5hwcm.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\rxuf74dayo-r4e9w2rdcm.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\94wgu3d1l8-lcd1t2u6c8.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\xlihlyxwat-c2oey78nd0.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\r338v8cmn3-tdbxkamptv.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\t2n7jxswrd-j5mq2jizvt.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\g1429o8o6o-06098lyss8.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\jzkbyuguh6-nvvlpmu67g.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\c7a0sfh267-s35ty4nyc5.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\8b4x4ldfqu-pj5nd1wqec.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\4edb42fojw-46ein0sx1k.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\bm0z7zhwsl-v0zj4ognzu.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\btgeo5js1j-37tfw0ft22.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\onh3zawe14-hrwsygsryq.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\hot1l7xp6s-pk9g2wxc8p.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\upft9qhv30-ft3s53vfgj.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\k6bsz4fbgn-6cfz1n2cew.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\3lsvrhfhkg-6pdc2jztkx.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\53vljy0st3-493y06b0oq.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\spo5yzvgs8-iovd86k7lj.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\j7l45jvyna-vr1egmr9el.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\13epcm1dab-kbrnm935zg.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\hgt8phddpx-jj8uyg4cgr.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\upjrlhiyl0-y7v9cxd14o.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\9llw5d756u-notf2xhcfb.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\mqsaikvm09-h1s4sie4z3.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\n4myxcdaa3-63fj8s7r0e.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\6wry7dypgv-0j3bgjxly4.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\lb3wgeee6j-47otxtyo56.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\eeyw77urhf-4v8eqarkd7.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\21gxqj3y4g-356vix0kms.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\74l5750i96-83jwlth58m.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\5qhg0zhvea-mrlpezrjn3.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\4iuf0xcu1a-lzl9nlhx6b.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\l09ar1wxam-ag7o75518u.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\r6rpgp9svz-x0q3zqp4vz.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\atp3oc0963-0i3buxo5is.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\gzzwdgscxv-o1o13a6vjx.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\sruej1nuw2-ttgo8qnofa.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\fueaddgo7y-2z0ns9nrw6.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\pzuwh5p1cu-muycvpuwrr.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\9qa3z5zdm1-87fc7y1x7t.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\utpxgie5d1-mlv21k5csn.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\r20ltmye9o-g4708hdv9p.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\compressed\qy3ipr6u35-g4708hdv9p.gz
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\staticwebassets.build.json
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\staticwebassets.build.json.cache
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\staticwebassets.development.json
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\staticwebassets.build.endpoints.json
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\Event Ea.13E21FD6.Up2Date
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\Event Ease 2026 Ntsika Nkonki.dll
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\refint\Event Ease 2026 Ntsika Nkonki.dll
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\Event Ease 2026 Ntsika Nkonki.pdb
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\Event Ease 2026 Ntsika Nkonki.genruntimeconfig.cache
+C:\Users\User\source\repos\EventEaseClean\obj\Release\net9.0\ref\Event Ease 2026 Ntsika Nkonki.dll

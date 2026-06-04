@@ -4881,11 +4881,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\EventEaseClean\\Event Ease 2026 Ntsika Nkonki.csproj",
       "projectName": "Event Ease 2026 Ntsika Nkonki",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\EventEaseClean\\Event Ease 2026 Ntsika Nkonki.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\EventEaseClean\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
