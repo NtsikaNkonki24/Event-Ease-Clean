@@ -1,0 +1,101 @@
+﻿@model Event_Ease_2026_Ntsika_Nkonki.Models.Booking
+
+@{
+    ViewData["Title"] = "Create Booking";
+}
+
+<div class="container mt-4">
+
+    ```
+    <div class="card shadow border-0">
+
+        <div class="card-header bg-success text-white">
+            <h3 class="mb-0">Create Booking</h3>
+        </div>
+
+        <div class="card-body">
+
+            <form asp-action="Create" method="post">
+
+                @Html.AntiForgeryToken()
+
+                <div asp-validation-summary="All" class="alert alert-danger"></div>
+
+                <div class="row">
+
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="CustomerName" class="form-label fw-bold"></label>
+                        <input asp-for="CustomerName"
+                               class="form-control"
+                               placeholder="Enter customer name" />
+                        <span asp-validation-for="CustomerName" class="text-danger"></span>
+                    </div>
+
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="SeatsBooked" class="form-label fw-bold"></label>
+                        <input asp-for="SeatsBooked"
+                               type="number"
+                               class="form-control"
+                               placeholder="Number of seats" />
+                        <span asp-validation-for="SeatsBooked" class="text-danger"></span>
+                    </div>
+
+                </div>
+
+                <div class="row">
+
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="BookingDate" class="form-label fw-bold"></label>
+                        <input asp-for="BookingDate"
+                               type="datetime-local"
+                               class="form-control" />
+                        <span asp-validation-for="BookingDate" class="text-danger"></span>
+                    </div>
+
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="VenueId" class="form-label fw-bold">Venue</label>
+
+                        <select asp-for="VenueId"
+                                class="form-select"
+                                asp-items="@(ViewBag.VenueId as SelectList)">
+                            <option value="">-- Select Venue --</option>
+                        </select>
+
+                        <span asp-validation-for="VenueId" class="text-danger"></span>
+                    </div>
+
+                </div>
+
+                <div class="mb-4">
+                    <label asp-for="EventId" class="form-label fw-bold">Event</label>
+
+                    <select asp-for="EventId"
+                            asp-items="ViewBag.EventId"
+                            class="form-select">
+                        <option value="">-- Select Event --</option>
+                    </select>
+
+                    <span asp-validation-for="EventId" class="text-danger"></span>
+                </div>
+
+                <div class="d-flex gap-2">
+
+                    <button type="submit" class="btn btn-success">
+                        Save Booking
+                    </button>
+
+                    <a asp-action="Index"
+                       class="btn btn-outline-secondary">
+                        Back to List
+                    </a>
+
+                </div>
+
+            </form>
+
+        </div>
+
+    </div>
+    ```
+
+</div>

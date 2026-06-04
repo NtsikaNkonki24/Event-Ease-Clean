@@ -1,0 +1,74 @@
+﻿@model IEnumerable<Event_Ease_2026_Ntsika_Nkonki.Models.Event>
+
+@{
+    ViewData["Title"] = "Events";
+}
+
+<h2>Events</h2>
+<a asp-action="Create" class="btn btn-success mb-3">Add Event</a>
+
+<!-- Filter Form -->
+<form asp-action="Index" method="get" class="mb-3">
+    <div class="row">
+        <div class="col-md-3">
+            <select name="eventTypeId" asp-items="ViewBag.EventTypes" class="form-select">
+                <option value="">All Event Types</option>
+            </select>
+        </div>
+        <div class="col-md-3">
+            <input type="date" name="startDate" class="form-control" />
+        </div>
+        <div class="col-md-3">
+            <input type="date" name="endDate" class="form-control" />
+        </div>
+        <div class="col-md-3 form-check">
+            <input type="checkbox" name="onlyAvailable" value="true" class="form-check-input" />
+            <label class="form-check-label">Only Available Venues</label>
+        </div>
+    </div>
+    <button type="submit" class="btn btn-primary mt-2">Filter</button>
+</form>
+
+<!-- Events Table -->
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Date</th>
+            <th>Venue</th>
+            <th>Event Type</th>
+            <th>Image</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Date.ToShortDateString()</td>
+                    <td>@item.Venue?.Name</td>
+                    <td>@item.EventType?.Name</td>
+                    <td>
+                        @if (!string.IsNullOrEmpty(item.ImageUrl))
+                        {
+                            <img src="@item.ImageUrl" alt="Event Image" width="120" />
+                        }
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.EventId">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.EventId">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.EventId">Delete</a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr><td colspan="6">No events found.</td></tr>
+        }
+    </tbody>
+</table>
+

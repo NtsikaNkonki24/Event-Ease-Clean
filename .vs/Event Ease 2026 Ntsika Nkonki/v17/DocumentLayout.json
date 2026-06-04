@@ -1,0 +1,666 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\migrations\\20260315200131_eventtime8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\migrations\\20260315200131_eventtime8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\views\\venues\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\views\\venues\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\views\\events\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\views\\events\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\views\\bookings\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\views\\bookings\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\views\\bookings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\views\\bookings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\views\\events\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\views\\events\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\views\\bookings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\views\\bookings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\models\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\models\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\views\\venues\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\views\\venues\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\controllers\\venuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\controllers\\venuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\views\\venues\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\views\\venues\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\views\\venues\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\views\\venues\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|c:\\users\\user\\source\\repos\\event ease 2026 ntsika nkonki\\event ease 2026 ntsika nkonki\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{D47772C8-0312-48CE-A5A6-966672A96B7A}|Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj|solutionrelative:event ease 2026 ntsika nkonki\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 351,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 40,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Bookings\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Views\\Bookings\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Bookings\\Delete.cshtml",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Views\\Bookings\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T21:58:51.277Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Bookings\\Create.cshtml",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Views\\Bookings\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Bookings\\Create.cshtml",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Views\\Bookings\\Create.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T21:35:37.848Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260315200131_Eventtime8.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Migrations\\20260315200131_Eventtime8.cs",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Migrations\\20260315200131_Eventtime8.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Migrations\\20260315200131_Eventtime8.cs",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Migrations\\20260315200131_Eventtime8.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T14:36:22.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-31T15:50:10.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\appsettings.json",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\appsettings.json",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-20T21:11:38.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EventType.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Models\\EventType.cs",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Models\\EventType.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Models\\EventType.cs",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Models\\EventType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T01:21:05.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BlobService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Services\\BlobService.cs",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Services\\BlobService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Services\\BlobService.cs",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Services\\BlobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T10:25:33.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-02T09:38:16.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-02T09:37:07.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-17T20:35:34.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAADkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-17T20:26:57.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-17T18:53:30.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Controllers\\EventsController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAALAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T11:38:41.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Bookings\\Details.cshtml",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Views\\Bookings\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Bookings\\Details.cshtml",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Views\\Bookings\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T21:58:11.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Events\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Views\\Events\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Events\\Delete.cshtml",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Views\\Events\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T21:57:14.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Events\\Details.cshtml",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Views\\Events\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Events\\Details.cshtml",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Views\\Events\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T21:56:35.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Venues\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Views\\Venues\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Venues\\Delete.cshtml",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Views\\Venues\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T21:55:29.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Venues\\Details.cshtml",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Views\\Venues\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Venues\\Details.cshtml",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Views\\Venues\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T21:54:37.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Events\\Create.cshtml",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Views\\Events\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Events\\Create.cshtml",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Views\\Events\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T21:51:27.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Events\\Index.cshtml",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Views\\Events\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Events\\Index.cshtml",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Views\\Events\\Index.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T21:49:29.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Venues\\Create.cshtml",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Views\\Venues\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Venues\\Create.cshtml",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Views\\Venues\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T21:38:47.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Bookings\\Index.cshtml",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Views\\Bookings\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Bookings\\Index.cshtml",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Views\\Bookings\\Index.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T21:21:14.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Venues\\Index.cshtml",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Views\\Venues\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Venues\\Index.cshtml",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Views\\Venues\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T21:19:09.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T20:34:01.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAGAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T20:31:10.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Controllers\\EventsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T20:30:36.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Controllers\\BookingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T20:21:59.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "VenuesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Controllers\\VenuesController.cs",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Controllers\\VenuesController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Controllers\\VenuesController.cs",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Controllers\\VenuesController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAiwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T20:20:56.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T15:57:19.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Program.cs",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Program.cs",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIA0wA4AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T14:30:01.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\appsettings.Development.json",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-07T14:25:38.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T13:53:12.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T13:42:53.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Event Ease 2026 Ntsika Nkonki.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-07T13:41:46.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Models\\Event.cs",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T13:36:29.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Models\\Venue.cs",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Models\\Venue.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Models\\Venue.cs",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Models\\Venue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T13:35:57.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Event Ease 2026 Ntsika Nkonki\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Ease 2026 Ntsika Nkonki\\Event Ease 2026 Ntsika Nkonki\\Models\\Booking.cs",
+              "RelativeToolTip": "Event Ease 2026 Ntsika Nkonki\\Models\\Booking.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T13:35:40.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

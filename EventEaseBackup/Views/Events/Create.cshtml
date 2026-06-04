@@ -1,0 +1,88 @@
+﻿@model Event_Ease_2026_Ntsika_Nkonki.Models.Event
+
+@{
+    ViewData["Title"] = "Create Event";
+}
+
+<div class="container mt-4">
+    ```
+    <div class="card shadow border-0">
+        <div class="card-header bg-primary text-white">
+            <h3 class="mb-0">Create Event</h3>
+        </div>
+
+        <div class="card-body">
+
+            <form asp-action="Create" method="post" enctype="multipart/form-data">
+
+                @Html.AntiForgeryToken()
+
+                <div asp-validation-summary="All" class="alert alert-danger"></div>
+
+                <div class="row">
+
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="Name" class="form-label fw-bold"></label>
+                        <input asp-for="Name" class="form-control" placeholder="Enter event name" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="Date" class="form-label fw-bold"></label>
+                        <input asp-for="Date" type="date" class="form-control" />
+                        <span asp-validation-for="Date" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="row">
+
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="VenueId" class="form-label fw-bold">Venue</label>
+                        <select asp-for="VenueId"
+                                class="form-select"
+                                asp-items="ViewBag.VenueId">
+                            <option value="">-- Select Venue --</option>
+                        </select>
+                        <span asp-validation-for="VenueId" class="text-danger"></span>
+                    </div>
+
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="EventTypeId" class="form-label fw-bold">Event Type</label>
+                        <select asp-for="EventTypeId"
+                                class="form-select"
+                                asp-items="ViewBag.EventTypeId">
+                            <option value="">-- Select Event Type --</option>
+                        </select>
+                        <span asp-validation-for="EventTypeId" class="text-danger"></span>
+                    </div>
+
+                </div>
+
+                <div class="mb-4">
+                    <label class="form-label fw-bold">Event Image</label>
+                    <input type="file"
+                           name="imageFile"
+                           class="form-control" />
+                </div>
+
+                <div class="d-flex gap-2">
+
+                    <button type="submit" class="btn btn-primary">
+                        Save Event
+                    </button>
+
+                    <a asp-action="Index"
+                       class="btn btn-outline-secondary">
+                        Back to List
+                    </a>
+
+                </div>
+            </form>
+        </div>
+    </div>
+    ```
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

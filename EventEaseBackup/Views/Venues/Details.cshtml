@@ -1,0 +1,15 @@
+﻿@model Event_Ease_2026_Ntsika_Nkonki.Models.Venue
+
+<h2>Venue Details</h2>
+
+<div>
+    <h4>@Model.Name</h4>
+    <p><strong>Location:</strong> @Model.Location</p>
+    @if (!string.IsNullOrEmpty(Model.ImageUrl))
+    {
+        <img src="@Model.ImageUrl" width="200" />
+    }
+</div>
+
+<a asp-action="Edit" asp-route-id="@Model.VenueId" class="btn btn-primary">Edit</a>
+<a asp-action="Index" class="btn btn-secondary">Back to List</a>
