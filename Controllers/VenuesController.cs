@@ -15,10 +15,17 @@ public class VenuesController : Controller
 
     // GET: Venues
     public async Task<IActionResult> Index()
+{
+    try
     {
-        return View(await _context.Venues.ToListAsync());
+        var venues = await _context.Venues.ToListAsync();
+        return View(venues);
     }
-
+    catch (Exception ex)
+    {
+        return Content(ex.ToString());
+    }
+}
     // GET: Venues/Details/5
     public async Task<IActionResult> Details(int? id)
     {
