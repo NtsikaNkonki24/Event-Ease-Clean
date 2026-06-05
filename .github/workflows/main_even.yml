@@ -61,4 +61,4 @@ jobs:
           package: ./publish
 
       - name: Apply EF Core migrations
-        run: sqlcmd -S ${{ secrets.AZURE_SQL_SERVER }} -d ${{ secrets.AZURE_SQL_DB }} -U ${{ secrets.AZURE_SQL_USER }} -P ${{ secrets.AZURE_SQL_PASSWORD }} -i migrations.sql
+        run: sqlcmd -S ${{ secrets.AZURE_SQL_SERVER }} -d "the back pack" -U ${{ secrets.AZURE_SQL_USER }} -P ${{ secrets.AZURE_SQL_PASSWORD }} -i migrations.sql
