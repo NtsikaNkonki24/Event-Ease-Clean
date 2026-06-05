@@ -50,6 +50,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: dotnet-app
+          path: ./publish   # <— force artifact into ./publish
 
       - name: Deploy to Azure Web App
         uses: azure/webapps-deploy@v2
@@ -58,3 +59,4 @@ jobs:
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE }}
           package: ./publish
+
