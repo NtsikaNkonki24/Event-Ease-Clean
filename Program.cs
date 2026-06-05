@@ -19,6 +19,13 @@ builder.Services.AddSingleton<BlobService>();
 
 var app = builder.Build();
 
+//  Run EF Core migrations on startup
+using (var scope = app.Services.CreateScope())
+{
+    var db = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
+    db.Database.Migrate();
+}
+
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
@@ -38,4 +45,3 @@ app.MapControllerRoute(
     .WithStaticAssets();
 
 app.Run();
-
