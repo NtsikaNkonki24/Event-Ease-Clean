@@ -1,4 +1,4 @@
-# Updated workflow using Publish Profile
+# Build and deploy ASP.NET Core app to Azure Web App - Even
 # Docs: https://github.com/Azure/webapps-deploy
 
 name: Build and deploy ASP.NET Core app to Azure Web App - Even
@@ -50,7 +50,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: dotnet-app
-          path: ./publish   # <— force artifact into ./publish
+          path: ./publish   # force artifact into ./publish
 
       - name: Deploy to Azure Web App
         uses: azure/webapps-deploy@v2
@@ -59,4 +59,3 @@ jobs:
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE }}
           package: ./publish
-
