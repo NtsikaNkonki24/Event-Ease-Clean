@@ -60,5 +60,8 @@ jobs:
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE }}
           package: ./publish
 
+      - name: Copy migrations.sql into working directory
+        run: cp ./migrations.sql ./publish/migrations.sql
+
       - name: Apply EF Core migrations
-        run: sqlcmd -S ${{ secrets.AZURE_SQL_SERVER }} -d "the back pack" -U ${{ secrets.AZURE_SQL_USER }} -P ${{ secrets.AZURE_SQL_PASSWORD }} -i ./migrations.sql
+        run: sqlcmd -S ${{ secrets.AZURE_SQL_SERVER }} -d "the back pack" -U ${{ secrets.AZURE_SQL_USER }} -P ${{ secrets.AZURE_SQL_PASSWORD }} -i ./publish/migrations.sql
