@@ -33,6 +33,9 @@ jobs:
       - name: Publish
         run: dotnet publish "./Event Ease 2026 Ntsika Nkonki.csproj" -c Release -o ./publish
 
+      - name: Generate EF Core migrations script
+        run: dotnet ef migrations script -o ./publish/migrations.sql --project "./Event Ease 2026 Ntsika Nkonki.csproj"
+
       - name: Upload artifact for deployment
         uses: actions/upload-artifact@v4
         with:
@@ -59,9 +62,6 @@ jobs:
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE }}
           package: ./publish
-
-      - name: Copy migrations.sql into working directory
-        run: cp ./migrations.sql ./publish/migrations.sql
 
       - name: Apply EF Core migrations
         run: sqlcmd -S ${{ secrets.AZURE_SQL_SERVER }} -d "the back pack" -U ${{ secrets.AZURE_SQL_USER }} -P ${{ secrets.AZURE_SQL_PASSWORD }} -i ./publish/migrations.sql
